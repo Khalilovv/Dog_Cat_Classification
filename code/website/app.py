@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 import tensorflow as tf
 
-MODEL = tf.keras.models.load_model("./models/model_train_8")
+MODEL = tf.keras.models.load_model("./models/model_train_7")
 CLASS_NAMES = ['CAT', 'DOG']
 
 def read_file_as_image(data) -> np.ndarray:

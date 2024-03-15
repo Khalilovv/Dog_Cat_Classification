@@ -24,4 +24,5 @@ jupyter
 
 # Miscellaneous
 joblib
-pyyaml h5py
+pyyaml 
+h5py

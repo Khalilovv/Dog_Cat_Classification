@@ -9,7 +9,7 @@ matplotlib
 seaborn
 
 # Deep Learning Frameworks
-tensorflow
+tensorflow ==2.15.0
 keras
 
 # Computer Vision

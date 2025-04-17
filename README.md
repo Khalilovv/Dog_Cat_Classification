@@ -4,7 +4,6 @@
 
 
 
-[Live Website](https://dog-cat-classification.streamlit.app/)
 
 ### Project Description:
 
